@@ -1,0 +1,30 @@
+body{
+  background-color: #F3F7EC;
+}
+img{
+  height: 180px
+}
+h1{
+  color: #8EC3B0;
+
+}
+h3{
+color: #373A40;
+}
+hr{
+border-width: 3px;
+color: #E97777;
+width: 100%
+}
+p{
+  color: #373A40;
+}
+input{
+  color: #DC5F00;
+  padding: 10px;
+  border-radius: 10px;
+}
+textarea{
+  border-radius: 10px;
+
+}
